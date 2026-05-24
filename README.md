@@ -27,10 +27,6 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-raf0el.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.contato@gmail.com)](rafael.contato@gmail.com)
