@@ -33,8 +33,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.contato@gmail.com)](rafael.contato@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-raf0el.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.contato@gmail.com)](rafael.contato@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/raf0el)
 
 
