@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
+- Explorando novas tecnologias e desenvolvendo soluções de software.
+- Estudando Analise e desenvolvimento de sistemas na Estacio.
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
